@@ -22,6 +22,12 @@ http://www.superdatascience.com/wp-content/uploads/2015/08/Churn-Modelling.xlsx
 ![alt text](https://github.com/swarupmishal/Data-Mining-using-Tableau/blob/master/Reports/Gender_Actuals.png)
 
 ## Here we have tried to analyze the
+![alt text](https://github.com/swarupmishal/Data-Mining-using-Tableau/blob/master/Reports/Country.png)
+
+## Here we have tried to analyze the
+![alt text](https://github.com/swarupmishal/Data-Mining-using-Tableau/blob/master/Reports/Country_Actuals.png)
+
+## Here we have tried to analyze the
 ![alt text](https://github.com/swarupmishal/Data-Mining-using-Tableau/blob/master/Reports/HasCrCard.png)
 
 ## Here we have tried to analyze the
@@ -57,11 +63,7 @@ http://www.superdatascience.com/wp-content/uploads/2015/08/Churn-Modelling.xlsx
 ## Here we have tried to analyze the
 ![alt text](https://github.com/swarupmishal/Data-Mining-using-Tableau/blob/master/Reports/Tenure.png)
 
-## Here we have tried to analyze the
-![alt text]()
 
-## Here we have tried to analyze the
-![alt text]()
 
 
 ## Conclusion
