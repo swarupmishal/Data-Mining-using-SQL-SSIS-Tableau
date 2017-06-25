@@ -27,16 +27,16 @@ http://www.superdatascience.com/wp-content/uploads/2015/08/Churn-Modelling.xlsx
 ## Here we can see the actual values of customers who exited.
 ![alt text](https://github.com/swarupmishal/Data-Mining-using-Tableau/blob/master/Reports/Country_Actuals.png)
 
-## Here we have tried to analyze the
+## Here we have tried to analyze if having a credit card has a contribution in customers exiting the Bank. And actually it doesn't matters if you have a credit card or don't.
 ![alt text](https://github.com/swarupmishal/Data-Mining-using-Tableau/blob/master/Reports/HasCrCard.png)
 
-## Here we have tried to analyze the
+## Here we can see the actual values of customers who exited.
 ![alt text](https://github.com/swarupmishal/Data-Mining-using-Tableau/blob/master/Reports/HasCrCards_Actuals.png)
 
-## Here we have tried to analyze the
+## Here we have tried to analyze does it affects to customers leaving the Bank if they are active or no. And we can see that customers who are less active have a tendency to leave the Bank.
 ![alt text](https://github.com/swarupmishal/Data-Mining-using-Tableau/blob/master/Reports/IsActiveMember.png)
 
-## Here we have tried to analyze the
+## Here we can see the actual values of customers who exited.
 ![alt text](https://github.com/swarupmishal/Data-Mining-using-Tableau/blob/master/Reports/IsActiveMember_Actuals.png)
 
 ## Here we have tried to analyze the
