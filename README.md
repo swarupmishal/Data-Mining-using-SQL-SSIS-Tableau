@@ -18,7 +18,7 @@ http://www.superdatascience.com/wp-content/uploads/2015/08/Churn-Modelling.xlsx
 ## Here we have tried to visualize ad-hoc A-B test. We can see the percentage of each gender of customers who exited the Bank.
 ![alt text](https://github.com/swarupmishal/Data-Mining-using-Tableau/blob/master/Reports/Gender.png)
 
-## Here we can see the actual values of each gender who exited.
+## Here we can see the actual values of customers who exited.
 ![alt text](https://github.com/swarupmishal/Data-Mining-using-Tableau/blob/master/Reports/Gender_Actuals.png)
 
 ## Here we have added a reference line and compared percentages of customers who exited based on geography.
@@ -39,10 +39,10 @@ http://www.superdatascience.com/wp-content/uploads/2015/08/Churn-Modelling.xlsx
 ## Here we can see the actual values of customers who exited.
 ![alt text](https://github.com/swarupmishal/Data-Mining-using-Tableau/blob/master/Reports/IsActiveMember_Actuals.png)
 
-## Here we have tried to analyze the
+## Here we have tried to analyze the if having more number of products makes a loyal customer. For the last 2 columns we got very less observations so we can't really rely on them. But we can see that the customers who have more products enrolled with the bank, they are most likely to stay.
 ![alt text](https://github.com/swarupmishal/Data-Mining-using-Tableau/blob/master/Reports/NumberOfProducts.png)
 
-## Here we have tried to analyze the
+## Here we have tried to validate the records. We have drawn the chart on the basis of last digit of the customerID and since it has got no relevance weather a customer will stay or leave the Bank, we can see that our data is valid.
 ![alt text](https://github.com/swarupmishal/Data-Mining-using-Tableau/blob/master/Reports/Validation.png)
 
 ## Here we have tried to analyze the
