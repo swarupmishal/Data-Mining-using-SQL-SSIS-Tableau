@@ -12,19 +12,19 @@ On can download the dataset using the following link.
 http://www.superdatascience.com/wp-content/uploads/2015/08/Churn-Modelling.xlsx
 
 ## Individual Analysis and its Inference
-## Here we have tried to analyze the
+## Here we have tried to analyze the total number of customers in different countries of Europe
 ![alt text](https://github.com/swarupmishal/Data-Mining-using-Tableau/blob/master/Reports/Map.png)
 
-## Here we have tried to analyze the
+## Here we have tried to visualize ad-hoc A-B test. We can see the percentage of each gender of customers who exited the Bank.
 ![alt text](https://github.com/swarupmishal/Data-Mining-using-Tableau/blob/master/Reports/Gender.png)
 
-## Here we have tried to analyze the
+## Here we can see the actual values of each gender who exited.
 ![alt text](https://github.com/swarupmishal/Data-Mining-using-Tableau/blob/master/Reports/Gender_Actuals.png)
 
-## Here we have tried to analyze the
+## Here we have added a reference line and compared percentages of customers who exited based on geography.
 ![alt text](https://github.com/swarupmishal/Data-Mining-using-Tableau/blob/master/Reports/Country.png)
 
-## Here we have tried to analyze the
+## Here we can see the actual values of customers who exited.
 ![alt text](https://github.com/swarupmishal/Data-Mining-using-Tableau/blob/master/Reports/Country_Actuals.png)
 
 ## Here we have tried to analyze the
